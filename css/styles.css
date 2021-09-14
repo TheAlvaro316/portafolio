@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: black;
+    color: white;
+}
+
+.contenedor {
+    background: rgb(50, 50, 50);
+}
+
+footer {
+    clear: both;
+    position: relative;
+    height: auto;
+    background: rgb(50, 50, 50);
+}
