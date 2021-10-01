@@ -79,8 +79,8 @@ header .contenedor-texto .texto .status{
     overflow: visible;
 }
 
-/* Formato para seccion Aerca de... */
-.main .acerca-de, .main .trabajos{
+/* Formato para alineacion en secciones */
+.main .acerca-de, .main .trabajo{
     text-align: center;
 }
 
@@ -103,7 +103,8 @@ header .contenedor-texto .texto .status{
     margin: 40px auto 60px auto;
 }
 
-.main .acerca-de .texto .titulo, .main .trabajos .titulo{
+/* Formato para titulos en secciones */
+.main .acerca-de .texto .titulo, .main .trabajo .titulo{
     font-size: 34px;
     line-height: 34px;
     margin-bottom: 40px;
