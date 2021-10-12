@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+::selection{
+    background: #40438c;
+    color: #FFFFFF;
+}
+
 body {
     background: #FFFFFF;
     font-family: "Open Sans", sans-serif;
