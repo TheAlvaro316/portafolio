@@ -94,6 +94,8 @@ header .contenedor-texto .texto .status{
 
 .main .acerca-de .foto img{
     vertical-align: top;
+    height: 256px;
+    width: 256px;
     border-radius: 50%;
     border: 5px solid rgba(255,255,255,0.2);
 }
